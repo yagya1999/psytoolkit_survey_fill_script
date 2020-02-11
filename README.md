@@ -3,8 +3,8 @@ This is a python script that allows students to fill Problematic Internet Use Qu
 
 Steps:
 
-Open the script in python 3.7
-Run the script
+Open the script in python 3.7<br>
+Run the script<br>
 Now you have 5 second of time to select the first rating
 That's it, your feedback will be filled within a blink of an eye
 Repeat the steps by opening the link again
